@@ -10,6 +10,7 @@ I'm a ✨ front end ✨ enthusiast and a computer science engineer. I love all t
 :dancers: I’m looking to collaborate on React.js projects
 
 **🔭 Goals for 2020**  
+
 I want to complete React projects and explore other frameworks.
 
 **:coffee: Reach me at**
