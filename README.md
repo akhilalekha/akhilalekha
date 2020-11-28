@@ -1,4 +1,4 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm Akhila.
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm Akhila C R.
 
 ![ ](https://visitor-badge.glitch.me/badge?page_id=akhilalekha.akhilalekha)  
 I'm a ✨ front end ✨ enthusiast and a computer science engineer. I love all things tech!
