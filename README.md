@@ -9,10 +9,6 @@ I'm a ✨ front end ✨ developer and a computer science engineer. I love all th
 
 :dancers: I’m looking to collaborate on React.js projects
 
-**🔭 Goals for 2020**  
-
-I want to complete React projects and explore other frameworks.
-
 **:coffee: Reach me at**
 
 <a href="https://linkedin.com/in/akhila-c-r">
