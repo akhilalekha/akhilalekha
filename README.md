@@ -1,4 +1,13 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hi there, I'm Akhila C R.
+<p align="right" style="background:linear-gradient(
+		135deg,
+		rgba(125, 42, 232, 1) 30%,
+		rgba(1, 194, 204, 1) 73%,
+		rgba(255, 255, 255, 1) 100%
+	); border-radius:10px">
+<img src="images/web_development.svg" width="30%" height="15%" style="padding:10px;">
+</p>
+
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"> Hi there, I'm Akhila C R
 
 ![ ](https://visitor-badge.glitch.me/badge?page_id=akhilalekha.akhilalekha)  
 I'm a ✨ full stack / front end ✨ developer and a computer science engineer. I love all things tech!
@@ -7,9 +16,9 @@ I'm a ✨ full stack / front end ✨ developer and a computer science engineer. 
 
 :seedling: I'm currently learning **full stack web development.**
 
-:dancers: I’m looking to collaborate on full stack projects
+:dancers: I’m looking to collaborate on **full stack projects**
 
-:star2: **Skills**
+## **:star2: Technologies and Tools**
 
 <p float="left">
 
@@ -37,12 +46,8 @@ I'm a ✨ full stack / front end ✨ developer and a computer science engineer. 
 
 </p>
 
-<br />
-<br />
-
-**:coffee: Reach me at**
+## **:coffee: Reach me at**
 
 <a href="https://linkedin.com/in/akhila-c-r">
-  <!-- <img align="left" alt="Akhila C R Linkedin" width="75" src="https://image.flaticon.com/icons/svg/124/124011.svg"/> -->
-	<img src="images/linkedin-original.svg" width="60" height="70" title="linkedin">
+	<img src="images/linkedin-original.svg" width="50" height="70">
 </a>
