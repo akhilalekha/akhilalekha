@@ -11,6 +11,8 @@ I'm a ✨ full stack / front end ✨ developer and a computer science engineer. 
 
 :star2: **Skills**
 
+<p float="left">
+
 <img src="images/html5-original-wordmark.svg" width="80" height="80" title="html5">
 
 <img src="images/css3-original-wordmark.svg" width="75" height="80" title="css3">
@@ -32,6 +34,8 @@ I'm a ✨ full stack / front end ✨ developer and a computer science engineer. 
 <img src="images/mongodb-original-wordmark.svg" width="75" height="80" title="mongodb">
 
 <img src="images/git-original-wordmark.svg" width="75" height="80" title="git">
+
+</p>
 
 <br />
 <br />
