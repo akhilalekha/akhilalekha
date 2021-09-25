@@ -1,4 +1,4 @@
-<img src="images/readme_bg.svg" width="100%" height="">
+<img src="images/readme_cropped.svg" width="100%" height="">
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"> Hi there, I'm Akhila C R
 
