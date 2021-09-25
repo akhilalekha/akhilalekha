@@ -1,11 +1,4 @@
-<p align="right" style="background:linear-gradient(
-		135deg,
-		rgba(125, 42, 232, 1) 30%,
-		rgba(1, 194, 204, 1) 73%,
-		rgba(255, 255, 255, 1) 100%
-	); border-radius:10px">
-<img src="images/web_development.svg" width="30%" height="15%" style="padding:10px;">
-</p>
+<img src="images/readme_bg.svg" width="100%" height="">
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"> Hi there, I'm Akhila C R
 
