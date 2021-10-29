@@ -3,7 +3,7 @@
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"> Hi there, I'm Akhila C R
 
 ![ ](https://visitor-badge.glitch.me/badge?page_id=akhilalekha.akhilalekha)  
-I'm a ✨ full stack / front end ✨ developer and a computer science engineer. I love all things tech!
+I'm a ✨ full stack ✨ developer and a computer science engineer. I love all things tech!
 
 :sunflower: I'm currently working on **React.js** projects.
 
