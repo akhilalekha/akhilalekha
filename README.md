@@ -1,15 +1,18 @@
 <img src="images/readme_cropped.svg" width="100%" height="">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"> Hi there, I'm Akhila C R
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"> Hey there, I'm Akhila!
 
-![ ](https://visitor-badge.glitch.me/badge?page_id=akhilalekha.akhilalekha)  
-I'm a ✨ full stack ✨ developer and a computer science engineer. I love all things tech!
+<!-- ![ ](https://visitor-badge.glitch.me/badge?page_id=akhilalekha.akhilalekha) -->
 
-:sunflower: I'm currently working on **React.js** projects.
+Welcome to my little corner of GitHub 💻✨  
 
-:seedling: I'm currently learning **full stack web development.**
+I'm a ✨ **Full Stack Developer** ✨ and a computer science engineer. I love all things tech and I want to build software that truly makes a difference and helps people solve real problems.
 
-:dancers: I’m looking to collaborate on **full stack projects**
+### 🌱 About Me
+
+👩‍💻 I have been workig with **JavaScript, React, Node.js, and web technologies**  
+:dancers: I’m looking to collaborate on **full stack projects**  
+🌿 Plant lover | 🎬 Fantasy & Sci-Fi enthusiast | 👾 Anime fan  
 
 ## **:star2: Technologies and Tools**
 
