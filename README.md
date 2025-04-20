@@ -14,7 +14,7 @@ I'm a ✨ **Full Stack Developer** ✨ and a computer science engineer. I love a
 :dancers: I’m looking to collaborate on **full stack projects**  
 🌿 Plant lover | 🎬 Fantasy & Sci-Fi enthusiast | 👾 Anime fan  
 
-## **:star2: Technologies and Tools**
+### **:star2: Technologies and Tools**
 
 <p float="left">
 
@@ -42,7 +42,7 @@ I'm a ✨ **Full Stack Developer** ✨ and a computer science engineer. I love a
 
 </p>
 
-## **:coffee: Reach me at**
+### **:coffee: Reach me at**
 
 <a href="https://linkedin.com/in/akhila-c-r">
 	<img src="images/linkedin-original.svg" width="50" height="70">
